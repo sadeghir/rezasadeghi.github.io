@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Work experience"
     url: /research/
     
   - title: "Publications"
@@ -9,10 +9,10 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
+  - title: "CV"
     url: /teaching/  
     
-  - title: "CV"
+  - title: "Gallery"
     url: /cv/
     
     
