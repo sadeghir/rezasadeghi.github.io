@@ -12,3 +12,5 @@ redirect_from:
 <img src="/images/CV2.png" alt="LF2" width = "1920" class="center">
 <img src="/images/CV3.png" alt="LF2" width = "1920" class="center">
 <img src="/images/CV4.png" alt="LF2" width = "1920" class="center">
+
+<a href="https://github.com/sadeghir/sadeghir.github.io/tree/master/files/CV.pdf"> Download CV </a>
