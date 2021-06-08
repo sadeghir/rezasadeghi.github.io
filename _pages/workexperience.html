@@ -1,0 +1,42 @@
+---
+layout: archive
+#title: "Research"
+permalink: /research/
+author_profile: true
+---
+<h1>Research assistant (2017-2021)</h1>
+<h3>Developing non-invasive computational-mechanics and imaging-based diagnostic framework for personalized cardiology for coarctation of aorta disease:</h3>
+<ul>
+  <li>Using FVM-based solver (OpenFoam) and LBM-based solver (OpenLB) to model turbulent and transitional flow in large arteries.</li>
+  <li>Using Smagorinsky LES family models to model blood flow. </li>
+  <li>Performing advanced medical imaging codes and techniques to segment and reconstruct CT and MRI Images.</li>
+  <li>Integrate CFD solver with 4D Flow magnetic resonance imaging MATLAB tool.</li>
+  <li>Verifying the computational tool with Taylor-Green vortex and turbulent cavity flow CFD benchmarks.</li>
+  <li>Comparing and validating the computational tool with available personalized 4D flow data, Echocardiography data, Catheter pressure drop data and particle image velocimetry data (PIV)</li>
+</ul> 
+<h3>Integrate 4D flow MRI imaging techniques and lattice Boltzmann method:</h3>
+<ul>
+  <li>Worked in collaboration with Libin Cardiovascular Institute of Alberta team to investigate computational framework using advanced 4D MR flow imaging and CFD techniques.</li>
+  <li>Carried out comprehensive statistical analysis using MATLAB and Python on 4D MRI-measured aorta data and compared against numerical simulation data.</li>
+</ul> 
+<h3>Collaborate in developing an innovative non-invasive Doppler-based patient-specific lumped-parameter algorithm and a 3-D strongly coupled fluid-solid interaction (FSI-OpenFoam-extend) framework to model transcatheter aortic valve replacement.</h3>
+
+<h1>CFD engineer/designer (2015-2017)</h1>
+<ul>
+  <li>Design, optimize and CFD Analysis of a shell and tube heat exchanger. </li>
+  <li>Review and evaluate design specifications of heat exchanger. </li>
+  <li>Generation of computational meshes and performing Conjugate heat transfer CFD analyses using ANSYS- CFX was performed to improve the heat transfer and baffle numbers, location and shapes optimized.</li>
+  <li>Report and communicate results to team. </li>
+</ul> 
+<h1>Research assistant (2012-2015)</h1>
+<ul>
+  <li>Developed a parallel LBM solver for compressible flow. </li>
+  <li>Develop a parallel multiphase flow model (with and without heat transfer) for high density ratio. </li>
+</ul> 
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
