@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "Work experience"
-    url: /workexperience/
+#  - title: "Work experience"
+ #   url: /workexperience/
+   - title: "Resume"
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
@@ -12,8 +14,7 @@ main:
   #- title: "CV"
   #  url: /teaching/  
     
-  - title: "CV"
-    url: /cv/
+
     
     
  
